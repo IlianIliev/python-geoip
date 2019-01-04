@@ -1,2 +1,2 @@
-include README LICENSE setup.cfg
+include README LICENSE setup.cfg _geoip_geolite2/*.mmdb
 recursive-include _geoip_geolite2 *
